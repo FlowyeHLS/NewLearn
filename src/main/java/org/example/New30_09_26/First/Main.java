@@ -7,8 +7,8 @@ public class Main {
     {
         Book book = new Book
         (
-                "The Witcher: Last Wish",
-                "Andrzej Sapkowski",
+                "The Witcher",
+                "Kniga ognya i plamenu",
                 1993,
                 599.99
         );
